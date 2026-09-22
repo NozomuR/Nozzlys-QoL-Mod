@@ -1,0 +1,16 @@
+{
+  "id": "com.nozzly.action_prompt_removal",
+  "name": "Nozzlys random QoL",
+  "version": "1.1.0",
+  "author": "Nozzly",
+  "description": "Various QoL Features I see asked for but are small or niche",
+  "abi": 1,
+  "imports": [
+    { "service_id": "dev.twilitrealm.dusklight.config", "major": 1, "min_minor": 0, "optional": false },
+    { "service_id": "dev.twilitrealm.dusklight.game",   "major": 2, "min_minor": 0, "optional": false },
+    { "service_id": "dev.twilitrealm.dusklight.hook",   "major": 1, "min_minor": 1, "optional": false },
+    { "service_id": "dev.twilitrealm.dusklight.log",    "major": 1, "min_minor": 0, "optional": false },
+    { "service_id": "dev.twilitrealm.dusklight.ui",     "major": 2, "min_minor": 2, "optional": false }
+  ],
+  "exports": []
+}
