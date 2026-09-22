@@ -1,7 +1,7 @@
 {
   "id": "com.nozzly.action_prompt_removal",
   "name": "Nozzlys random QoL",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": "Nozzly",
   "description": "Various QoL Features I see asked for but are small or niche",
   "abi": 1,
