@@ -1,6 +1,0 @@
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/CMakeFiles/nozzly_qol.dir
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/CMakeFiles/nozzly_qol_package.dir
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/CMakeFiles/edit_cache.dir
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/CMakeFiles/rebuild_cache.dir
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/dusklight-sdk/CMakeFiles/edit_cache.dir
-C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/build/dusklight-sdk/CMakeFiles/rebuild_cache.dir
