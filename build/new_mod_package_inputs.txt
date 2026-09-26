@@ -1,0 +1,4 @@
+C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/mod.json
+C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/overlay
+C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/res
+C:/Users/hopex/OneDrive/Desktop/Dusklight-Modding/mods/new-mod/textures

@@ -12,7 +12,7 @@ add_subdirectory("${DUSKLIGHT_DIR}/sdk" dusklight-sdk EXCLUDE_FROM_ALL)
 
 add_mod(nozzly_qol
         FEATURES game          # remove for service/asset-only mods; add webgpu for GfxService
-        SOURCES src/mod.cpp src/common.cpp src/action_prompt.cpp src/lock_sounds.cpp src/link_voice.cpp src/settings_window.cpp
+        SOURCES src/mod.cpp src/common.cpp src/action_prompt.cpp src/lock_sounds.cpp src/link_voice.cpp src/settings_window.cpp src/lock_range.cpp
         MOD_JSON mod.json
         RES_DIR res            # mod resources, including icon.png and banner.png
         OVERLAY_DIR overlay    # game file overlays; remove if unused
